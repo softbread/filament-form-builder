@@ -1,5 +1,5 @@
 {
-    "name": "tomatophp/filament-form-builder",
+    "name": "softbread/filament-form-builder",
     "type": "library",
     "description": "Manage your forms using database and drop/drag component to build the form with Livewire component support for FilamentPHP",
     "keywords": [

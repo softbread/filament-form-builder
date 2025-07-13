@@ -1,6 +1,6 @@
-![Screenshot](https://raw.githubusercontent.com/tomatophp/filament-form-builder/master/art/screenshot.jpg)
-
 # Filament form builder
+
+FORKED from TomatoPHP as the package is missing in Composer
 
 [![Latest Stable Version](https://poser.pugx.org/tomatophp/filament-form-builder/version.svg)](https://packagist.org/packages/tomatophp/filament-form-builder)
 [![License](https://poser.pugx.org/tomatophp/filament-form-builder/license.svg)](https://packagist.org/packages/tomatophp/filament-form-builder)
@@ -11,7 +11,7 @@ Manage your forms using database and drop/drag component to build the form with 
 ## Installation
 
 ```bash
-composer require tomatophp/filament-form-builder
+composer require softbread/filament-form-builder
 ```
 after install your package please run this command
 
